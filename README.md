@@ -35,6 +35,7 @@ Projenizi çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
 ## Model Doğruluğu
 
 ![model_test](image.png)
+## -----
 ![model test_2](image_2.png)
 
 
