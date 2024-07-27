@@ -31,6 +31,11 @@ Projenizi çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
 3. Ana dosyayı çalıştırın
    ```bash
    python main.py
+   
+## Model Doğruluğu
+
+![model_test](image.png)
+
 
 ## Özellikler ve Fonksiyonlar
 - data_load: Verilerin yüklenmesi için kullanılan fonksiyon.
